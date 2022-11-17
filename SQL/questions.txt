@@ -1,0 +1,14 @@
+-- # Q1: Retrieve the names of all employees who don't have superviors.
+-- # Retrieve names of employees who works for any department
+-- # Q2: Find out Dno, Fname, Lname of all managers.
+-- Q5: Names of employees whose salaries are greater than the salary of all employees in department no 5;
+--  # Q(n): Find the sum of all salaries of employees of 'Research' department.
+
+-- Q(n+1): For each department, retrieve the department number, SUM of the distinct salaries of all employees.
+-- Q(n+2): For each project on which more than two employees work, retrieve the project number 
+-- and the number of employees who work on that project.
+
+-- Q(n+3): For each department that has more than ONE employees, retrieve the department 
+-- number and the number of its employees who are making more than 40,000
+
+-- For each department that has more than three employees
